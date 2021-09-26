@@ -1,0 +1,15 @@
+[
+  {
+    "package": "rheroicons",
+    "oncran": false
+  },
+  {
+    "package": "browsertools"
+  },
+  {
+    "package": "pkgbump"
+  },
+  {
+    "package": "rdConvert"
+  }
+]
