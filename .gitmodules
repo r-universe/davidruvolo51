@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "rheroicons"]
 	path = rheroicons
-	url = https://github.com/davidruvolo51/rheroicons
+	url = https://cran.r-project.org/package=rheroicons
 	shallow = true
 	registered = true
 [submodule "browsertools"]
